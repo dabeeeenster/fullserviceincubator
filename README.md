@@ -45,7 +45,7 @@ The incubator would provide any or all of the following:
 - Seed Funding
 - Legal and accounting documentation and advice
 - Office space
-- Validating the idea; talking to potential users
+- Customer development: talking to potential users
 - Design and Brand
 - UX/UI
 - Marketing (Social, PR, Content Marketing, SEO/SEM)
@@ -65,3 +65,26 @@ The incubator would leverage the expertise and production abilities of the 3 com
 We also have a network of proven relationships with companies (both on and off-shore) that can help with production aspects of the business. Some, e.g. legal, would work pro-bono on the basis of a commitment of follow-on work as and when it comes.
 
 One structural limitation to this model is that we would not operate  "cohorts" of startups. The process would necessitate a steady stream of new businesses, all at different stages, being pushed through the pipeline.We are looking for financing to boot-strap the incubator and begin the deal-flow.
+
+# The Process
+
+## Product
+
+In order to accelerate companies as efficient as possible, we would aim to have each one follow the same workflow. Each company may be terminated at any point in the process.
+
+1. Interview the team. Qualitatively validate the idea.
+2. Build an MVP.
+3. Perform customer development based on the MVP.
+4. Product iteration until product/market fit.
+5. Scale up team and business.
+
+## Business
+
+Each company is different. Consequently the following process and in particular the timing of each step will change from company to company.
+
+1. Sign 1-page "heads of terms" with founders.
+2. Build MVP.
+3. Validate idea.
+4. Incorporate limited company.
+5. Raise SEIS round.
+6. Raise EIS round.
